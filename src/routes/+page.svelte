@@ -34,7 +34,8 @@ onMount(async () => {
     <img src={molteni_hero} alt="Molteni furniture" width="600px" height="400px"/>
   </section>
   <section class="featured__products">
-    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum hic exercitationem ab dignissimos facilis.</h2>
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias est enim eius consectetur accusamus dolorum neque quidem. Explicabo vel molestiae fugiat pariatur nam consequatur nihil natus soluta qui ipsum? Suscipit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus quas ducimus dolor officia qui aliquam nostrum aliquid nobis soluta. Magni rerum architecto at numquam, sit atque veniam blanditiis corporis sapiente!</p>
     <div>
       {#if featuredProducts }
         {#each featuredProducts as product, index}
@@ -44,6 +45,7 @@ onMount(async () => {
         LOADING
       {/if}
     </div>
+    <a href="/shop">View all products</a>
   </section>
 </div>
 
@@ -83,11 +85,19 @@ onMount(async () => {
     h2
       text-align: center
       margin-top: 2rem
+    p
+      text-align: center
+      max-width: 900px
+      margin: 2rem auto
+    a
+      display: block
+      width: 100%
+      text-align: center
     & > div
       width: 100%
       display: flex
       flex-wrap: wrap
       gap: 2rem
       justify-content: center
-      padding: 3rem 1rem
+      padding: 2rem 1rem
 </style>
