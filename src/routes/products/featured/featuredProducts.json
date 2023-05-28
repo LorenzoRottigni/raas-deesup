@@ -1,0 +1,746 @@
+[
+    {
+        "id": "316419",
+        "name": "Appendiabiti e Portaombrelli Planta vintage (anni'70), Anonima Castelli",
+        "createdAt": 1683193117867,
+        "slug": "appendiabiti-e-portaombrelli-planta-vintage-anni70-anonima-castelli-316419",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/eb/13__46__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "316414",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/eb/13__46__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1683193117867,
+                "name": "Appendiabiti e Portaombrelli Planta vintage (anni'70), Anonima Castelli",
+                "price": 360,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "5",
+            "15",
+            "11",
+            "52"
+        ]
+    },
+    {
+        "id": "316478",
+        "name": "Lampada Big Shadow in tondini e tessuto bianco, Cappellini",
+        "createdAt": 1683282751513,
+        "slug": "lampada-big-shadow-in-tondini-e-tessuto-bianco-cappellini-316478",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/56/senza-titolo-1__66__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "316472",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/56/senza-titolo-1__66__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1683282751513,
+                "name": "Lampada Big Shadow in tondini e tessuto bianco, Cappellini",
+                "price": 920,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": 1683809946556,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Professional"
+                }
+            }
+        },
+        "collectionIds": [
+            "6",
+            "414",
+            "38",
+            "39",
+            "3",
+            "11",
+            "15"
+        ]
+    },
+    {
+        "id": "273312",
+        "name": "Chaise Longue Lc4 vintage in tessuto (bianco), Cassina",
+        "createdAt": 1681904027475,
+        "slug": "chaise-longue-lc4-vintage-in-tessuto-bianco-cassina",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/3e/chaise-longue-lc4-cassina-vintage-in-tessuto-bianco__03__preview.png",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "273312",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/3e/chaise-longue-lc4-cassina-vintage-in-tessuto-bianco__03__preview.png",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1681904027475,
+                "name": "Chaise Longue Lc4 vintage in tessuto (bianco), Cassina",
+                "price": 2990,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": 1681904027409,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "6",
+            "11",
+            "15",
+            "10",
+            "27",
+            "58",
+            "63",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "id": "312060",
+        "name": "Poltrona 849 vintage di Gianfranco Frattini, Cassina",
+        "createdAt": 1677509280674,
+        "slug": "poltrona-849-vintage-di-gainfranco-frattini-cassina-312060",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/97/22__17__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "312057",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/97/22__17__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1677509280674,
+                "name": "Poltrona 849 vintage di Gianfranco Frattini, Cassina",
+                "price": 3952,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": 1677452400000,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Professional-dynamic-fee"
+                }
+            }
+        },
+        "collectionIds": [
+            "6",
+            "27",
+            "2",
+            "62",
+            "429",
+            "5",
+            "50"
+        ]
+    },
+    {
+        "id": "310408",
+        "name": "Sedia Masters di Philippe Starck verde, Kartell",
+        "createdAt": 1675847427910,
+        "slug": "sedia-masters-di-philippe-starck-verde-kartell-310408",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/5f/15.__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "310405",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/5f/15.__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1675847427910,
+                "name": "Sedia Masters di Philippe Starck verde, Kartell",
+                "price": 195,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": false
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "945",
+            "11"
+        ]
+    },
+    {
+        "id": "312713",
+        "name": "Divano componibile in tessuto grigio, Minotti ",
+        "createdAt": 1683982324610,
+        "slug": "divano-componibile-in-tessuto-grigio-minotti-312713",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/f3/5__100__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "312710",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/f3/5__100__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1683982324610,
+                "name": "Divano componibile in tessuto grigio, Minotti ",
+                "price": 3000,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": 1683982324034,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "6",
+            "23",
+            "113",
+            "2",
+            "1178"
+        ]
+    },
+    {
+        "id": "316422",
+        "name": "Sedia Pila vintage (anni'60), Anonima Castelli",
+        "createdAt": 1683193800224,
+        "slug": "sedia-pila-vintage-anni60-anonima-castelli-316422",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/a7/15__32__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "316417",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/a7/15__32__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1683193800224,
+                "name": "Sedia Pila vintage (anni'60), Anonima Castelli",
+                "price": 350,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "5",
+            "74",
+            "11",
+            "50"
+        ]
+    },
+    {
+        "id": "316409",
+        "name": "Divano Escapade di Zeno Nugari, Roche Bobois",
+        "createdAt": 1683817274664,
+        "slug": "divano-escapade-di-zeno-nugari-roche-bobois-316409",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/29/5.-2__03__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "316404",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/29/5.-2__03__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1683817274664,
+                "name": "Divano Escapade di Zeno Nugari, Roche Bobois",
+                "price": 3950,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "1432",
+            "23",
+            "111",
+            "2",
+            "7"
+        ]
+    },
+    {
+        "id": "316833",
+        "name": "Lampada da tavolo Toy di Moschino, Kartell ",
+        "createdAt": 1683810725241,
+        "slug": "lampada-da-tavolo-toy-di-moschino-kartell-316833",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/88/12.__09__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "316827",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/88/12.__09__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1683810725241,
+                "name": "Lampada da tavolo Toy di Moschino, Kartell ",
+                "price": 200,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Professional-dynamic-fee"
+                }
+            }
+        },
+        "collectionIds": [
+            "945",
+            "15",
+            "39",
+            "3",
+            "7",
+            "41"
+        ]
+    },
+    {
+        "id": "312399",
+        "name": "Tavolo La Rotonda in cristallo, Cassina",
+        "createdAt": 1682837378651,
+        "slug": "tavolo-la-rotonda-in-cristallo-cassina-312399",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/b4/9__37__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "312396",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/b4/9__37__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1682837378651,
+                "name": "Tavolo La Rotonda in cristallo, Cassina",
+                "price": 2800,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": 1682837378502,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "22",
+            "2",
+            "82",
+            "15",
+            "141",
+            "6",
+            "179",
+            "429"
+        ]
+    },
+    {
+        "id": "317012",
+        "name": "Poltrona City in legno di noce, Kenzo ",
+        "createdAt": 1684162408137,
+        "slug": "poltrona-city-in-legno-di-noce-kenzo-317012",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/8d/1.__25__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "317006",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/8d/1.__25__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1684162408137,
+                "name": "Poltrona City in legno di noce, Kenzo ",
+                "price": 1000,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "2",
+            "7",
+            "27",
+            "62",
+            "951"
+        ]
+    },
+    {
+        "id": "305750",
+        "name": "Poltrona Getsuen in velluto nero, Edra",
+        "createdAt": 1667383440063,
+        "slug": "poltrona-getsuen-in-velluto-nero-edra-305750",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/13/getsuen-2__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "305749",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/13/getsuen-2__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1667383440063,
+                "name": "Poltrona Getsuen in velluto nero, Edra",
+                "price": 3800,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": false
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "27",
+            "2",
+            "62",
+            "458"
+        ]
+    },
+    {
+        "id": "315459",
+        "name": "Set 2 vasi Eufronio blu, Serralunga",
+        "createdAt": 1682603734673,
+        "slug": "set-2-vasi-eufronio-blu-serralunga-315459",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/ea/53.set2__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "315455",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/ea/53.set2__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1682603734673,
+                "name": "Set 2 vasi Eufronio blu, Serralunga",
+                "price": 600,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "8",
+            "33",
+            "4",
+            "1519"
+        ]
+    },
+    {
+        "id": "316586",
+        "name": "Poltrona Dot gialla, Roche Bobois",
+        "createdAt": 1683553700729,
+        "slug": "poltrona-dot-gialla-roche-bobois-316586",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/73/5__148__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "316580",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/73/5__148__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1683553700729,
+                "name": "Poltrona Dot gialla, Roche Bobois",
+                "price": 1350,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "1432",
+            "27",
+            "62",
+            "2"
+        ]
+    },
+    {
+        "id": "311394",
+        "name": "Lampada da tavolo Snoopy, Flos",
+        "createdAt": 1681720200000,
+        "slug": "lampada-da-tavolo-snoopy-vintage-anni-70-flos-311394",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/c5/senza-titolo-1__07__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "311391",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/c5/senza-titolo-1__07__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1681720200000,
+                "name": "Lampada da tavolo Snoopy, Flos",
+                "price": 880,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": false
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Professional"
+                }
+            }
+        },
+        "collectionIds": [
+            "5",
+            "715",
+            "181",
+            "3",
+            "41",
+            "39",
+            "11",
+            "137",
+            "53"
+        ]
+    },
+    {
+        "id": "316157",
+        "name": "Vaso Fazzoletto rosa, Venini",
+        "createdAt": 1683028864448,
+        "slug": "vaso-fazzoletto-rosa-venini-316157",
+        "featuredAsset": {
+            "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/2a/senza-titolo-14__02__preview.jpg",
+            "__typename": "SearchResultAsset"
+        },
+        "inStock": true,
+        "variants": [
+            {
+                "id": "316153",
+                "seller": null,
+                "featuredAsset": {
+                    "preview": "https://storage.googleapis.com/deesup_vendure_prod/preview/2a/senza-titolo-14__02__preview.jpg",
+                    "__typename": "SearchResultAsset"
+                },
+                "timestamp": 1683028864448,
+                "name": "Vaso Fazzoletto rosa, Venini",
+                "price": 750,
+                "customFields": {
+                    "shippingLocalPickupEnabled": true,
+                    "reducePriceDate": null,
+                    "onHold": null
+                }
+            }
+        ],
+        "customFields": {
+            "seller": {
+                "id": 0,
+                "firstName": "",
+                "lastName": "",
+                "customFields": {
+                    "sellerType": "Private"
+                }
+            }
+        },
+        "collectionIds": [
+            "33",
+            "4",
+            "1704",
+            "34",
+            "123"
+        ]
+    }
+]

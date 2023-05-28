@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 import deesup_logo from '$lib/images/deesup_logo.png';
 import molteni_logo from '$lib/images/molteni_logo.png';
 </script>
