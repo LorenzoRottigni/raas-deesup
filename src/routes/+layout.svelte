@@ -1,11 +1,10 @@
 <script>
 import Header from './Header.svelte';
 import Footer from './Footer.svelte';
-import './styles.css';
+import './styles.sass';
 </script>
 
 <div class="app">
-  layout default
   <Header />
   <main>
     <slot />
